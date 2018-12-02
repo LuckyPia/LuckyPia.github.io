@@ -21,14 +21,14 @@ pagination_type: default  # values [ ops, default ]
 
 more_vert:
   option1:
-    name: Option 1
-    link: www.luckypia.github.io
+    name: 我的QQ
+    link: https://user.qzone.qq.com/664454335
   option2:
-    name: Option 2
-    link: www.luckypia.github.io
+    name: 我的微博
+    link: https://weibo.com/u/5170608033
   option3:
-    name: Option 3
-    link: www.luckypia.github.io
+    name: 我的gayhub
+    link: https://github.com/LuckyPia
 
 disqus: true
 disqus_shortname: 'gdgmanagua'
